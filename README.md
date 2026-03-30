@@ -4,8 +4,6 @@
 
 4+ years building fullstack apps with .NET Core, Angular, and SQL at KPMG — and constantly leveling up on my own with Next.js, SvelteKit, React, PostgreSQL, and AI-powered development tools like Claude Code and MCP.
 
-Currently building freelance projects at **[mtietz.dev](https://mtietz.dev)** — turning ideas into production-ready products.
-
 ### Tech I work with
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nextjs,svelte,react,tailwind,postgres,docker,nodejs,python&theme=dark)](https://skillicons.dev)
