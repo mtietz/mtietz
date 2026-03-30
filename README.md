@@ -21,4 +21,4 @@ Currently building freelance projects at **[mtietz.dev](https://mtietz.dev)** â€
 
 [![Website](https://img.shields.io/badge/mtietz.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mtietz.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mtietz.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/manuel-tietz-317908252/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-tietz-317908252/)
