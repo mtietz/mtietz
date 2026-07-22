@@ -2,7 +2,7 @@
 
 **Fullstack Developer & Agentic Engineer** from Berlin — I build modern web apps, scalable backends, and AI-powered solutions using Claude Code at full capacity.
 
-4+ years building fullstack apps with .NET Core, Angular, and SQL at KPMG — and constantly leveling up on my own with Next.js, SvelteKit, React, PostgreSQL, and AI-powered development tools like Claude Code and MCP. I leverage agentic workflows to ship faster, automate smarter, and push the boundaries of what's possible with AI-assisted engineering.
+4+ years building fullstack apps with .NET Core, Angular, and SQL at KPMG — and constantly leveling up on my own with Next.js, SvelteKit, React, PostgreSQL, and AI-powered development tools like Claude Code, PI Agent and MCP. I leverage agentic workflows to ship faster, automate smarter, and push the boundaries of what's possible with AI-assisted engineering.
 
 ### Tech I work with
 
